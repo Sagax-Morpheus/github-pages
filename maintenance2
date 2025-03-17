@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tchi - Maintenance en cours</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .donate-button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            color: #fff;
+            background-color: #0073e6;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .donate-button:hover {
+            background-color: #005bb5;
+        }
+        .contact-link {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        .contact-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tchi est en maintenance 🚧</h1>
+    <p>
+        Nous améliorons la plateforme avec un serveur plus rapide et plus sécurisé. La maintenance durera 48 heures.<br>
+        À l’issue de cette mise à jour, la version bêta sur Android sera également disponible ! �<br>
+        Merci pour votre patience. L’aventure ne fait que commencer !
+    </p>
+    <p>
+        Pour toute question, contactez-nous : <a href="mailto:contact@tchi.io" class="contact-link">contact@tchi.io</a>
+    </p>
+    <a href="https://donate.stripe.com/7sI9BtgqX9qf1dSfYZ" class="donate-button">Faire un don</a>
+</body>
+</html>
